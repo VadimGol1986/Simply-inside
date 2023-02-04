@@ -4,6 +4,7 @@ font-size: 140px;
     display: block;
 }
 body {
-    height: 50%;
+    max-width: 0.9vw;
+    height: 0.5vh;
     background-color: #0D5C63;
     }
