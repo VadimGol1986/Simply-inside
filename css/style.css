@@ -1,6 +1,7 @@
 h1 {
-font-size: 64px;
+font-size: 140px;
     margin: 0px auto;
+    display: block;
 }
 body {
     height: 100%;
